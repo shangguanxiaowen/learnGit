@@ -1,1 +1,1 @@
-creating a new branch is quickly 
+creating a new branch is quickly qip simple.
